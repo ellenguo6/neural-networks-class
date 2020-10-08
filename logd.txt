@@ -1,0 +1,24 @@
+Cause of Termination: Error Threshold (0.001) reached for all cases 
+
+Iterations: 1190
+
+Case 0: Target / Calculated 
+0.0 0.04049620633997926
+Case 0 total error: 8.199713639650882E-4
+
+Case 1: Target / Calculated 
+0.2 0.17512551904937723
+Case 1 total error: 3.093699012814478E-4
+
+Case 2: Target / Calculated 
+0.4 0.4153035210711711
+Case 2 total error: 1.1709887858788824E-4
+
+Case 3: Target / Calculated 
+0.6 0.6445609490441355
+Case 3 total error: 9.928390898570223E-4
+
+Case 4: Target / Calculated 
+0.8 0.7716479758736277
+Case 4 total error: 4.01918636031201E-4
+

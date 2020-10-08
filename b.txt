@@ -1,0 +1,25 @@
+numTestCases: 1
+
+numHiddenLayers: 3
+100
+72
+100
+
+bitmap: yes
+RGB
+square
+image
+letter
+144
+test5.bmp
+
+weights: Random
+-0.02
+0.02
+
+iterations: 10000
+100
+
+errorThreshold: 0.001
+
+lambda: 0.2

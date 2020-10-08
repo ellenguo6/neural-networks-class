@@ -1,0 +1,33 @@
+numTestCases: 5
+
+numHiddenLayers: 2
+200
+500
+
+bitmap: yes
+grayscale
+square
+number
+hand
+2500
+hand1_50x.bmp
+hand2_50x.bmp
+hand3_50x.bmp
+hand4_50x.bmp
+hand5_50x.bmp
+0
+0.2
+0.4
+0.6
+0.8
+
+weights: Random
+-0.1
+0.1
+
+iterations: 2001
+100
+
+errorThreshold: 0.001
+
+lambda: 0.1
