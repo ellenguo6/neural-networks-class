@@ -13,3 +13,7 @@ b.txt: takes a bitmap and compresses it. The output is the same bitmap, but the 
 d.txt: trains network to recognize hand gestures. A bitmap image of a hand with one finger up will output 0, two fingers 0.2, three fingers 0.4, four fingers 0.6, and five fingers 0.8. 
 
 Corresponding sample output files are loga.txt, logb.txt, and logd.txt. 
+
+@author Ellen Guo
+@author EricN
+@version 1/10/20
