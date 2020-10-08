@@ -14,6 +14,10 @@ d.txt: trains network to recognize hand gestures. A bitmap image of a hand with 
 
 Corresponding sample output files are loga.txt, logb.txt, and logd.txt. 
 
+
+Compiled with Eclipse IDE. Run program with main() method in PerceptronTester11 class. 
+
 @author Ellen Guo
 @author EricN
+
 @version 1/10/20
